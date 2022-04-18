@@ -13,8 +13,13 @@ export const NavbarSecondItem = () => {
         <i className="fas fa-beer"></i>
       </a>
       <a className="navbar-second-item" href="#">
-        <img src="../../../assets/navbar-img.jpg" alt="user" />
+        <img src="./src/assets/navbar-img.jpg" alt="user" />
       </a>
     </ul>
   );
 };
+
+// google-home/src/components/navbar/navbar-second-item/NavbarSecondItem.jsx
+
+// google-home/src/assets/navbar-img.jpg
+// ./../../../assets/navbar-img.jpg
