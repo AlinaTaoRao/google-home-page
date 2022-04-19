@@ -1,5 +1,4 @@
 import "./styles.css";
-
 export const NavbarSecondItem = () => {
   return (
     <ul className="nav-bar-second-item">
@@ -13,7 +12,7 @@ export const NavbarSecondItem = () => {
         <i className="fas fa-beer"></i>
       </a>
       <a className="navbar-second-item" href="#">
-        <img src="./src/assets/navbar-img.jpg" alt="user" />
+        <img src="assets/navbar-img.jpg" alt="user" /> 
       </a>
     </ul>
   );
