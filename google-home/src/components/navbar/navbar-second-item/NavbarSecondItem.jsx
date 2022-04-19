@@ -18,7 +18,4 @@ export const NavbarSecondItem = () => {
   );
 };
 
-// google-home/src/components/navbar/navbar-second-item/NavbarSecondItem.jsx
 
-// google-home/src/assets/navbar-img.jpg
-// ./../../../assets/navbar-img.jpg

@@ -7,9 +7,10 @@ import { HeaderBtn } from "./header-btn/HeaderBtn.jsx";
 export const Header = () => {
   return (
     <header>
-      <HeaderTitle />
+      <HeaderTitle  />
       <InputForm />
       <HeaderBtn />
     </header>
   );
 };
+
